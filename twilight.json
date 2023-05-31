@@ -728,13 +728,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "key": "db8fbea2-fa76-47a7-83f4-15a0f04f5f36",
-            "title": "aya-products",
-            "icon": "sicon-store",
-            "path": "home.aya-products",
-            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
